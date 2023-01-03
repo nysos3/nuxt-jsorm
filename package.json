@@ -83,7 +83,7 @@
     "object-assign": "^4.1.1",
     "puppeteer": "^2.1.1",
     "vue-eslint-parser": "^7.1.0",
-    "vue-jest": "^3.0.6"
+    "vue-jest": "^4.0.1"
   },
   "peerDependencies": {
     "@nuxtjs/auth": ">=4.5.3",
